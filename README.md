@@ -22,3 +22,4 @@
 
 # База данных
 
+![Схема БД](https://user-images.githubusercontent.com/77401154/198379363-67358128-30b2-4e8f-bfc1-f8f4f178bb78.jpg)
