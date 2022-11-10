@@ -22,4 +22,5 @@
 
 # База данных
 
-![Схема БД](https://user-images.githubusercontent.com/77401154/198379363-67358128-30b2-4e8f-bfc1-f8f4f178bb78.jpg)
+![image](https://user-images.githubusercontent.com/77401154/201216967-5eaa8824-c478-4c72-91ae-039b54a6e941.png)
+
