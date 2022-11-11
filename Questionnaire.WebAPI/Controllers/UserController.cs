@@ -33,7 +33,7 @@ namespace Questionnaire.WebAPI.Controllers
             {
                 PasswordHash = "111rrr12",
                 Login = "ssssseeesss",
-                Email = "wwwweew@ya"
+                Email = "EEwwwweew@ya"
             };
             _repository.Save(newUser);
             newUser.Login = "zzzzzrrrrrzzz";
